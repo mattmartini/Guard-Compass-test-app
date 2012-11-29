@@ -1,0 +1,7 @@
+--colour
+--drb
+--format progress
+#--format documentation
+#--format nested
+#--backtrace
+#--profile
